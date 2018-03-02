@@ -1,6 +1,7 @@
 # 模仿饿了么APP
 
 **项目采用 Vue.js2.5 + vue-router**
+**开发环境使用 vue-cli**
 
 ## Build Setup
 
