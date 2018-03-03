@@ -4,6 +4,9 @@
 
 **开发环境使用 vue-cli**
 
+**项目演示，请扫二维码**
+ 
+
 ## Build Setup
 
 ``` bash
