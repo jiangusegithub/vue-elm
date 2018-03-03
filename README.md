@@ -4,7 +4,7 @@
 
 **开发环境使用 vue-cli**
 
-**项目演示，请扫二维码（服务器带宽太低，所以打开较慢...请谅解**
+**项目演示，请扫二维码（服务器带宽太低，所以打开较慢...请谅解)**
 
  
  ![Image text](https://raw.githubusercontent.com/remmlqw/img-folder/master/elm.png)
